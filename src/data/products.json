@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Royal Milk Tea",
+      "price": 4.8,
+      "toppings": "Milk foam,white pearl"
+    },
+    {
+      "id": 2,
+      "name": "Green Milk Tea",
+      "price": 4.6,
+      "toppings": "pearl"
+    },
+    {
+      "id": 3,
+      "name": "Oolong Milk Tea",
+      "price": 5.1,
+      "toppings": "Pearl, milk foam"
+    },
+    {
+      "id": 4,
+      "name": "Blueberry Milk Tea",
+      "price": 5.1,
+      "toppings": "Pearl, milk foam"
+    },
+    {
+      "id": 5,
+      "name": "Mango Milk Tea",
+      "price": 5.1,
+      "toppings": "Aloe, Pearl"
+    },
+    {
+      "id": 6,
+      "name": "Royal Milk Tea (Clone)",
+      "price": 4.8,
+      "toppings": "Milk foam,white pearl"
+    },
+    {
+      "id": 7,
+      "name": "Green Milk Tea (Clone)",
+      "price": 4.6,
+      "toppings": "pearl"
+    },
+    {
+      "id": 8,
+      "name": "Oolong Milk Tea (Clone)",
+      "price": 5.1,
+      "toppings": "Pearl, milk foam"
+    },
+    {
+      "id": 9,
+      "name": "Blueberry Milk Tea (Clone)",
+      "price": 5.1,
+      "toppings": "Pearl, milk foam"
+    },
+    {
+      "id": 10,
+      "name": "Mango Milk Tea (Clone)",
+      "price": 5.1,
+      "toppings": "Aloe, Pearl"
+    },
+    {
+      "id": 11,
+      "name": "Royal Milk Tea (Clone 2)",
+      "price": 4.8,
+      "toppings": "Milk foam,white pearl"
+    },
+    {
+      "id": 12,
+      "name": "Green Milk Tea (Clone 2)",
+      "price": 4.6,
+      "toppings": "pearl"
+    },
+    {
+      "id": 13,
+      "name": "Oolong Milk Tea (Clone 2)",
+      "price": 5.1,
+      "toppings": "Pearl, milk foam"
+    },
+    {
+      "id": 14,
+      "name": "Blueberry Milk Tea (Clone 2)",
+      "price": 5.1,
+      "toppings": "Pearl, milk foam"
+    },
+    {
+      "id": 15,
+      "name": "Mango Milk Tea (Clone 2)",
+      "price": 5.1,
+      "toppings": "Aloe, Pearl"
+    }
+  ]
+}

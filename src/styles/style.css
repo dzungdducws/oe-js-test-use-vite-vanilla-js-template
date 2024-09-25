@@ -1,0 +1,47 @@
+body {
+    height: 100vh;
+    color: #1d2c54;
+
+}
+
+#titleMainContent {
+    text-align: center;
+    font-size: 3.75rem;
+    line-height: 1;
+}
+
+#listItem {
+    margin-bottom:50px;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+@media (min-width: 360px) {
+    #listItem {
+        grid-template-columns: repeat(2, minmax(0, 1fr))!important;
+    }
+}
+
+@media (min-width: 768px) {
+    #titleMainContent {
+        text-align: center;
+        font-size: 2.75rem;
+        line-height: 1;
+    }
+
+    #listItem {
+        grid-template-columns: repeat(3, minmax(0, 1fr))!important;
+    }
+}
+
+@media screen and (min-width: 1080px) {
+    #titleMainContent {
+        text-align: center;
+        font-size: 2.75rem;
+        line-height: 1;
+    }
+    #listItem {
+        grid-template-columns: repeat(4, minmax(0, 1fr))!important;
+    }
+}
